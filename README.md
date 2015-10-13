@@ -21,5 +21,8 @@ Now, run the script `python downloadXkcd.py` or 'python multidownloadXkcd.py` to
 
 	`Downloading image //imgs.xkcd.com/comics/python.png...`
 
+![alt tag](https://raw.githubusercontent.com/akul08/xkcd-comics-downloader/master/python.png)
+
+
 Simple. Isn't It. Enjoy.
 
