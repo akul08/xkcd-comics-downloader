@@ -8,7 +8,7 @@ A simple python script to download all the comics just using Your Terminal.
 
 - `pip install -r requirements.txt`
 
-Now, run the script `python downloadXkcd.py` or 'python multidownloadXkcd.py` to download xkcd comics.
+Now, run the script `python downloadXkcd.py` or `python multidownloadXkcd.py` to download xkcd comics.
 
 # Example
 `python downloadXkcd.py`
