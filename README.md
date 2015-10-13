@@ -4,13 +4,9 @@ A simple python script to download all the comics just using Your Terminal.
 
 # How to Use It?
 
-. Clone the repo cd && git clone https://github.com/akul08/xkcd-comics-downloader.git && cd xkcd-comics-downloader
+- Clone the repo `cd && git clone https://github.com/akul08/xkcd-comics-downloader.git && cd xkcd-comics-downloader`
 
-. setup virtualenv virtualenv venv
-
-. source venv/bin/activate
-
-. pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
 Now, run the script `python downloadXkcd.py` or 'python multidownloadXkcd.py` to download xkcd comics.
 
@@ -24,5 +20,5 @@ Now, run the script `python downloadXkcd.py` or 'python multidownloadXkcd.py` to
 ![alt tag](https://raw.githubusercontent.com/akul08/xkcd-comics-downloader/master/python.png)
 
 
-Simple. Isn't It. Enjoy.
+- Simple. Isn't It. Enjoy.
 
